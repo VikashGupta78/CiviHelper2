@@ -5,7 +5,10 @@
       <map>
         <entry key="..\:/Users/vikas/AndroidStudioProjects/CiviHelper2/app/src/main/res/font/custom_font.xml" value="0.259375" />
         <entry key="..\:/Users/vikas/AndroidStudioProjects/CiviHelper2/app/src/main/res/font/font.xml" value="0.259375" />
-        <entry key="..\:/Users/vikas/AndroidStudioProjects/CiviHelper2/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/vikas/AndroidStudioProjects/CiviHelper2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/vikas/AndroidStudioProjects/CiviHelper2/app/src/main/res/layout/activity_message.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/vikas/AndroidStudioProjects/CiviHelper2/app/src/main/res/layout/activity_problem.xml" value="0.2140625" />
+        <entry key="..\:/Users/vikas/AndroidStudioProjects/CiviHelper2/app/src/main/res/layout/activity_splash.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/vikas/AndroidStudioProjects/CiviHelper2/app/src/main/res/layout/nav_header.xml" value="0.176" />
         <entry key="..\:/Users/vikas/AndroidStudioProjects/CiviHelper2/app/src/main/res/menu/nav_menu.xml" value="0.22916666666666666" />
       </map>
